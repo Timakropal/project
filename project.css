@@ -4,6 +4,8 @@ body {
   height: 100%;
   background-image: url("myphoto.png");
   overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 #slovo {
   color: white;
@@ -53,6 +55,8 @@ body {
   background-color: black;
   opacity: 83%;
   position: absolute;
+  margin: 0;
+  padding: 0;
 }
 #slovo {
   font-family: Gilroy;
