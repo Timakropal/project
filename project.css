@@ -1,0 +1,70 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url("8889.png");
+  overflow: hidden;
+}
+#slovo {
+  color: white;
+  font-size: 145px;
+  font-style: italic;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+#one {
+  color: white;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+#pro {
+  font-family: Gilroy;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 20px;
+  line-height: 28.87px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+#nomer {
+  font-family: Gilroy;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 24px;
+  line-height: 28.87px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+.did {
+  margin-left: 94px;
+}
+#photo {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 83%;
+  position: absolute;
+}
+#slovo {
+  font-family: Gilroy;
+  font-weight: 800;
+  font-style: ExtraBold;
+  font-size: 100px;
+  line-height: 100px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  width: 600px;
+}
+#two {
+  width: 1200px;
+  margin: 0 auto;
+}
